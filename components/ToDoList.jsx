@@ -14,6 +14,7 @@ export default function ToDoList({ tasks }) {
   );
 }
 
+
 const styles = StyleSheet.create({
   task: {
     padding: 10,
